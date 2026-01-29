@@ -1,0 +1,67 @@
+
+TÜRKİYE'NİN ŞEHİRLERİ
+
+En Kalabalık Şehirler:
+1. İstanbul (16 milyon) - Marmara Bölgesi, Boğaziçi, tarihi yarımada, eski başkent
+2. Ankara (5.7 milyon) - İç Anadolu, başkent, Anıtkabir
+3. İzmir (4.4 milyon) - Ege Bölgesi, liman şehri, Kordon
+4. Bursa (3.1 milyon) - Marmara, yeşil Bursa, Uludağ
+5. Antalya (2.6 milyon) - Akdeniz, turizm başkenti, sahiller
+
+Bölgelere Göre Önemli Şehirler:
+
+Marmara Bölgesi:
+- İstanbul: Boğaz, Sultanahmet, Topkapı Sarayı, Ayasofya
+- Bursa: Uludağ, İskender kebap, yeşil alanlar
+- Edirne: Selimiye Camii, tarihi köprüler, sınır şehri
+- Kocaeli: Sanayi şehri, İzmit Körfezi
+- Tekirdağ: Rakı, deniz kıyısı
+
+Ege Bölgesi:
+- İzmir: Kordon, Kemeraltı, tarihi saat kulesi
+- Aydın: Efes antik kenti, pamuk üretimi
+- Muğla: Bodrum, Marmaris, Fethiye, turizm
+- Denizli: Pamukkale, tekstil
+- Manisa: Mesir macunu, üzüm
+
+Akdeniz Bölgesi:
+- Antalya: Kaleiçi, Düden Şelalesi, Konyaaltı plajı
+- Mersin: Liman şehri, tantuni
+- Adana: Kebap, Taşköprü, Seyhan Nehri
+- Hatay: Antakya, mozaik müzesi, künefe
+- Kahramanmaraş: Dondurma
+
+İç Anadolu Bölgesi:
+- Ankara: Anıtkabir, Kızılay, başkent
+- Konya: Mevlana Müzesi, Semazen, etli ekmek
+- Kayseri: Erciyes Dağı, mantı, pastırma
+- Eskişehir: Porsuk Çayı, Odunpazarı, lüle taşı
+- Sivas: Divriği Ulu Camii, Kangal köpekleri
+
+Karadeniz Bölgesi:
+- Trabzon: Sümela Manastırı, hamsi, lahana
+- Samsun: Bandırma Vapuru, liman
+- Ordu: Fındık üretimi
+- Rize: Çay üretimi, Çamlıhemşin
+- Artvin: Karagöl, doğa turizmi
+
+Doğu Anadolu Bölgesi:
+- Erzurum: Kış sporları, cağ kebap, Palandöken
+- Van: Van Gölü, Van kedisi, kahvaltı
+- Ağrı: Ağrı Dağı, İshak Paşa Sarayı
+- Malatya: Kayısı başkenti
+- Elazığ: Harput Kalesi
+
+Güneydoğu Anadolu Bölgesi:
+- Gaziantep: Baklavası, Zeugma Mozaik Müzesi, mutfak kültürü
+- Şanlıurfa: Balıklıgöl, Göbekli Tepe, peygamberler şehri
+- Diyarbakır: Surlar, Hevsel Bahçeleri, karpuz
+- Mardin: Taş evler, Deyrulzafaran Manastırı
+- Batman: Hasankeyf, petrol
+
+Plaka Kodları:
+İstanbul: 34
+Ankara: 06
+İzmir: 35
+Bursa: 16
+Antalya: 07
